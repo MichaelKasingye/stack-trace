@@ -1,13 +1,13 @@
-## Noonya Search Engine
-link: https://clone-2cf1c.web.app/
+## Stack Trace Application
+link: 
 
 ### Description
-This is a prototype search app. It is limmited to 100 searches a day.
+This is a question and answer application.
 
-### Application build
-1. React
-2. context API
-3. Google Search API
-4. Firebase deployment
+### Code Usage
+1. git clone the repository
+2. Implement npm install in your terminal
+3. Use npm start or yarn start to run the application
+
 
 
