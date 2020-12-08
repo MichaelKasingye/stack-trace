@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
     <p>This is Stack trace</p>
+  
     </div>
   );
 }
